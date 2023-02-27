@@ -1,5 +1,6 @@
 # Docker
-Some commands in docker you will use.
+
+### 1. Some commands in docker you will use.
 
 - To know the images those are running now
   ```
@@ -28,7 +29,7 @@ Some commands in docker you will use.
   docker rmi <image> 
   ```
   
- #### Note:
+ ***Note***:
  
  if you get this error 
  ![Screenshot 2023-02-27 140215](https://user-images.githubusercontent.com/63751555/221559100-e44cdc44-bfa2-42da-9832-077140ac3ef7.png)
@@ -40,6 +41,11 @@ Some commands in docker you will use.
    service docker start
    ```
    ref : https://stackoverflow.com/questions/71770693/error-saving-credentials-error-storing-credentials-err-exit-status-1-out
+   
+   ---
+   Good refrence: https://github.com/mmumshad/simple-webapp-flask
+   
+   
   
  
   

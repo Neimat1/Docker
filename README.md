@@ -43,7 +43,7 @@
    ref : https://stackoverflow.com/questions/71770693/error-saving-credentials-error-storing-credentials-err-exit-status-1-out
    
    ---
-   Good refrence: https://github.com/mmumshad/simple-webapp-flask
+   Good reference: https://github.com/mmumshad/simple-webapp-flask
    
    
   

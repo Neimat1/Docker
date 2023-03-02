@@ -54,6 +54,7 @@
    
    
  + if you ran the tomcat image then 404 error page appeared to you instead of tomcat webpage 
+  ![image](https://user-images.githubusercontent.com/63751555/222397615-1f15c829-ed61-4017-a530-cc4f04f12812.png)
     + solution:
       ```
       docker pull tomcat:latest

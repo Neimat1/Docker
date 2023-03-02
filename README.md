@@ -2,11 +2,11 @@
 
 ### 1. Some commands in docker you will use.
 
-- To know the images those are running now
+- List all containers are running now
   ```
   docker ps
   ```
-- Show all containers are running and closed
+- List all containers are running and closed
   ```
   docker ps -a
   ```
@@ -32,6 +32,11 @@
   ```
   docker stop <container Name>
   ```
+- List number of processes that are working in specific container  
+  ```
+  docker exec <Container Name> ps -eaf
+  ```
+  
   
  ***Note***:
  

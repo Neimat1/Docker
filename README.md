@@ -28,6 +28,10 @@
   ```
   docker rmi <image> 
   ```
+- To stop running container  
+  ```
+  docker stop <container Name>
+  ```
   
  ***Note***:
  
@@ -43,7 +47,9 @@
    ref : https://stackoverflow.com/questions/71770693/error-saving-credentials-error-storing-credentials-err-exit-status-1-out
    
    ---
-   Good reference: https://github.com/mmumshad/simple-webapp-flask
+   ### Good References
+   + https://github.com/mmumshad/simple-webapp-flask
+   + https://github.com/mmumshad/example-voting-app
    
    
   

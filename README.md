@@ -38,7 +38,7 @@
   ```
   
   
- ***Note***:
+ ***Errors may help you***:
  
  if you get this error 
  ![Screenshot 2023-02-27 140215](https://user-images.githubusercontent.com/63751555/221559100-e44cdc44-bfa2-42da-9832-077140ac3ef7.png)
@@ -55,6 +55,7 @@
    ### Good References
    + https://github.com/mmumshad/simple-webapp-flask
    + https://github.com/mmumshad/example-voting-app
+   + https://stackoverflow.com/questions/30853247/how-do-i-edit-a-file-after-i-shell-to-a-docker-container
    
    
   

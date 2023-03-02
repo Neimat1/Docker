@@ -37,8 +37,9 @@
   docker exec <Container Name> ps -eaf
   ```
   
-  
- ***Errors may help you***:
+ ___
+ 
+ ### Errors may help you 
  
  + if you get this error 
  ![Screenshot 2023-02-27 140215](https://user-images.githubusercontent.com/63751555/221559100-e44cdc44-bfa2-42da-9832-077140ac3ef7.png)

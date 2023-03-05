@@ -1,6 +1,6 @@
 # Docker
 
-### 1. Some commands in docker you will use.
+### Some commands in docker:
 
 - List all containers are running now
   ```
@@ -36,8 +36,17 @@
   ```
   docker exec <Container Name> ps -eaf
   ```
-  
- ___
+ 
+___
+
+### Docker Structure:
+```
+# list docker folders
+sudo ls -l /var/lib/docker
+```
+![image](https://user-images.githubusercontent.com/63751555/222992644-08a083a8-ca7c-4b6d-bf80-8204e0ba7425.png)
+
+___
  
  ### Errors may help you 
  

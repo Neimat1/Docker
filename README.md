@@ -46,6 +46,16 @@ sudo ls -l /var/lib/docker
 ```
 ![image](https://user-images.githubusercontent.com/63751555/222992644-08a083a8-ca7c-4b6d-bf80-8204e0ba7425.png)
 
+____
+### Kubernets:
+we use because docker run only one instance of image 
+and in case we want to run multiple instances or to roll back we can use kubernets
+
+  + Kubernets architecture:
+      + cluster consits of multiple nodes each node is about worker machine
+      + master is a node that responsible for orchestration in cluster 
+    
+
 ___
  
  ### Errors may help you 

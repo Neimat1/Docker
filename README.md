@@ -1,5 +1,24 @@
 # Docker
 
+**Main problem:**
+ When we have multiple projects in our environment and each project use different versions of **PHP** and also **MySQL** in that case what will happen?
+ 
+ That's cause error in projects abd to control this problem we need to make each project isolated so to do this solution we need to choose one option from those:
+ 1. Configuration: This means we will change configuration for each projcet and that is a bad idea
+    + Not Scalable 
+    + Risk to breaking everything
+    + it's too hard
+ 2. Virtual Machine: To use multiple virtual machine for each project this's not a good solution becaues 
+    + VMs are resource hungry
+    + Cannot be reused 
+    + Cannot be shared among the team members     
+ 3. Vagrant: Not ideal Solution because it's a VM 
+ 4. Docker: It's a 
+    + Light weight
+    + Extendable
+    + Configuration injection: Change the confuguration and updated it
+    + Sharable: Once it's uploaded to the repository any one can use the image  
+
 ### Some commands in docker:
 
 - List all containers are running now

@@ -19,7 +19,21 @@
     + Configuration injection: Change the confuguration and updated it
     + Sharable: Once it's uploaded to the repository any one can use the image  
  
-One of the pros of docker that it's the prerequisite of microservice and that's by isolating each service to achieve the concept of microservice.
+#### Docker pros:
+ + it's the prerequisite of microservice and that's by isolating each service to achieve the concept of microservice.
+ + We can create containers as many as we want.
+ + we can extend the docker image
+
+#### Components of docker:
+ + Server
+ + Client
+ + API
+ 
+#### Docker Registry:
+ Application for storing and distributing docker images.
+  + Private
+  + Public: like docker hub
+  
 
 ### Some commands in docker:
 

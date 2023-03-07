@@ -18,6 +18,8 @@
     + Extendable
     + Configuration injection: Change the confuguration and updated it
     + Sharable: Once it's uploaded to the repository any one can use the image  
+ 
+One of the pros of docker that it's the prerequisite of microservice and that's by isolating each service to achieve the concept of microservice.
 
 ### Some commands in docker:
 
